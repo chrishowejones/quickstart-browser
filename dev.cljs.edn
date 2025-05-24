@@ -1,0 +1,3 @@
+^{:watch-dirs ["src/main"]
+  :css-dirs ["resources/public/css"]}
+{:main starter.browser}

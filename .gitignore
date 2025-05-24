@@ -5,3 +5,9 @@
 /*.iml
 /.nrepl-port
 /.idea
+/.calva
+/.clj-kondo
+/.cpcache
+/.lsp
+/.rebel_readline_history
+/resources/public/js
